@@ -1,0 +1,93 @@
+#myContainer
+{
+	text-align: center;	
+}
+
+.item
+{
+	max-height: 500px;
+}
+
+#left
+{
+	text-align: left;	
+}
+
+#leftFile
+{
+	margin-left: 50px;
+}
+
+#rightFile
+{
+	margin-right: 50px;
+}
+
+#leftM
+{
+	text-align: left;
+	margin-bottom: 10px;
+	margin-left: 30px;
+}
+
+#right
+{
+	text-align: right;	
+}
+
+#center
+{
+	text-align: center;		
+}
+
+#centerfile
+{
+	text-align: center;
+	width: 268px;		
+}
+
+#coSlychac
+{
+	text-align: left;
+	width: 400px;
+	height:  120px;
+	margin: 30px;
+	margin-bottom: 10px;
+}
+
+#coSlychacM
+{
+	text-align: left;
+	width: 300px;
+	height:  120px;
+	margin: 30px;
+	margin-bottom: 10px;
+}
+
+#messages
+{
+	text-align: left;
+	height:  220px;
+}
+
+#messagesBox
+{
+	text-align: left;
+	height: 270px;
+}
+
+#lubie:hover
+{
+	cursor: pointer;
+}
+
+#myPanel
+{
+	overflow-y: scroll;	
+	height: 250px;
+}
+
+#myPost
+{
+	overflow-y: scroll;	
+}
